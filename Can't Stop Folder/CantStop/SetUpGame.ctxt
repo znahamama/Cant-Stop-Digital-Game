@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=SetUpGame
+comment1.params=
+comment1.target=SetUpGame()
+comment2.params=
+comment2.target=void\ removePlayer()
+comment3.params=
+comment3.target=void\ addPlayer()
+comment4.params=
+comment4.target=void\ backToMainMenu()
+comment5.params=
+comment5.target=void\ createGame()
+comment6.params=index
+comment6.target=void\ clickPlayerButton(int)
+numComments=7

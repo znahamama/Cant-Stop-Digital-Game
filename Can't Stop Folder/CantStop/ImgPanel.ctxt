@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ImgPanel
+comment1.params=bgImage
+comment1.target=ImgPanel(java.awt.Image)
+comment2.params=g
+comment2.target=void\ paintComponent(java.awt.Graphics)
+numComments=3

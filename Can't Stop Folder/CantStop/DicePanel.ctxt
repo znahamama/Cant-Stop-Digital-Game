@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=DicePanel
+comment1.params=rollDuration
+comment1.target=DicePanel(int)
+comment10.params=
+comment10.target=java.util.List\ getRollValues()
+comment11.params=
+comment11.target=void\ roll()
+comment2.params=g
+comment2.target=void\ paintComponent(java.awt.Graphics)
+comment3.params=centerX\ centerY\ g
+comment3.target=void\ drawDot(int,\ int,\ java.awt.Graphics)
+comment4.params=centerX\ centerY\ val\ g
+comment4.target=void\ drawDie(int,\ int,\ int,\ java.awt.Graphics)
+comment5.params=callback
+comment5.target=void\ setCallback(java.util.function.Consumer)
+comment6.params=
+comment6.target=void\ randomizeDice()
+comment7.params=
+comment7.target=int\ calculateDieSize()
+comment8.params=
+comment8.target=java.util.List\ rollInstantly()
+comment9.params=rollDuration
+comment9.target=void\ roll(long)
+numComments=12

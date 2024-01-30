@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=MainMenuPanel
+comment1.params=bgImage\ buttons
+comment1.target=MainMenuPanel(java.awt.Image,\ javax.swing.JButton[])
+comment2.params=buttons
+comment2.target=MainMenuPanel(javax.swing.JButton[])
+comment3.params=g
+comment3.target=void\ paintComponent(java.awt.Graphics)
+numComments=4

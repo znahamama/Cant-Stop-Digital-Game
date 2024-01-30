@@ -1,0 +1,32 @@
+#BlueJ class context
+comment0.target=Player
+comment1.params=name
+comment1.target=Player(java.lang.String)
+comment10.params=b
+comment10.target=void\ setFailCombination(boolean)
+comment11.params=
+comment11.target=int\ getRolledDice()
+comment12.params=value
+comment12.target=void\ setRolledDice(int)
+comment13.params=
+comment13.target=java.util.ArrayList\ getRunnerCoordinates()
+comment14.params=
+comment14.target=java.util.ArrayList\ get_ColumnsWon()
+comment14.text=for(int\ s\ \=0;s<runnerCoordinates.size();s++){\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ int\ r\ \=\ runnerPosition.get(runnerCoordinates.get(s));\ngridSquares[r][runnerCoordinates.get(s)].saveRunner();}
+comment2.params=column\ row
+comment2.target=void\ setPlayerMarker(int,\ int)
+comment3.params=column
+comment3.target=void\ setClaimedColumn(int)
+comment4.params=
+comment4.target=java.lang.String\ getName()
+comment5.params=
+comment5.target=int\ getRunnerCounter()
+comment6.params=value
+comment6.target=void\ setRunnerCounter(int)
+comment7.params=
+comment7.target=int\ getSelectionCounter()
+comment8.params=value
+comment8.target=void\ setSelectionCounter(int)
+comment9.params=
+comment9.target=boolean\ getFailCombination()
+numComments=15

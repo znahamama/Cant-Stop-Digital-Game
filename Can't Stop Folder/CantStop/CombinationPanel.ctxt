@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=CombinationPanel
+comment1.params=val1\ val2
+comment1.target=CombinationPanel(int,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Combination\r\n
+comment2.params=val
+comment2.target=CombinationPanel(int)
+comment3.params=g
+comment3.target=void\ paintComponent(java.awt.Graphics)
+comment4.params=decider
+comment4.target=void\ setColor(int)
+comment5.params=val1\ val2
+comment5.target=void\ setValues(int,\ int)
+comment6.params=
+comment6.target=int\ getSum()
+comment7.params=invalid
+comment7.target=void\ setInvalid(boolean)
+numComments=8

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Driver
+comment0.text=\n\ \ The\ main\ class(JVM\ entrypoint)\ for\ this\ project\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\n\ Allows\ the\ project\ to\ run\ as\ a\ stand\ alone\ application\n
+numComments=2
